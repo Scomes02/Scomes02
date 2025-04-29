@@ -29,8 +29,14 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Scomes02&style=flat-square&color=green" alt="contador de visitas" />
+  <img src="https://profile-counter.glitch.me/Scomes02/count.svg" alt="Contador de visitas" />
 </p>
+<h3 align="center">👀 Visitas a mi perfil desde que lo creé:</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Scomes02/count.svg" />
+</p>
+<h3 align="center">🔥 Este perfil ya fue visitado por:</h3>
+
 
 ---
 
