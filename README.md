@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Santiago Comes
 ### 💻 Desarrollador de software | Estudiante de Tecnicatura en Desarrollo
 
-- 🎓 Estudiante en Instituto Manuel Belgrano (2º año)
+- 🎓 Estudiante en Instituto Manuel Belgrano (3º año)
 - 💻 Apasionado por Java, PHP, desarrollo web y videojuegos
 - 🔧 Experiencia real en atención al cliente, ventas y soporte
 - 🚀 Estoy construyendo proyectos en PHP, HTML, Java y Unity
