@@ -6,15 +6,6 @@
 - 🔧 Experiencia real en atención al cliente, ventas y soporte
 - 🚀 Estoy construyendo proyectos en PHP, HTML, Java y Unity
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/fluency/48/unity.png" alt="Unity" />
-</p>
-
-
 ---
 
 ## 🌟 Proyectos Destacados
@@ -22,6 +13,12 @@
 - ✂️ [ProyectoPeluqueria](https://github.com/Scomes02/ProyectoPeluqueria) — Web de reserva y gestión de turnos.
 - 🔢 [Actividades-Prog-2](https://github.com/Scomes02/Actividades-Prog-2) — Conversor numérico en Java y agenda personal con Base de datos.
 
+
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/fluency/48/unity.png" alt="Unity" />
 ---
 
 <h3 align="center">👀 Visitado por:</h3>
