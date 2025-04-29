@@ -26,7 +26,7 @@
 
 ## 📫 Contacto
 - 📧 comessantiago@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/santiago-comes-62558a212/)) 
+- 💼 [LinkedIn](www.linkedin.com/in/santiago-comes) 
 
 ---
 > Gracias por visitar mi perfil 😊
