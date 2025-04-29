@@ -12,7 +12,7 @@
 - 📦 [RocketApp](https://github.com/Scomes02/RocketApp) — Sistema de gestión PHP con productos y usuarios.
 - ✂️ [ProyectoPeluqueria](https://github.com/Scomes02/ProyectoPeluqueria) — Web de reserva y gestión de turnos.
 - 🔢 [Actividades-Prog-2](https://github.com/Scomes02/Actividades-Prog-2) — Conversor numérico en Java y agenda personal con Base de datos.
-- 🛍️ [Proyecto-Petit-Ami-en-TiendaNube](https://nombre-de-la-tienda.tiendanube.com) — Plataforma de e-commerce diseñada con Tienda Nube. Participé en la personalización y carga de productos.
+- 🛍️ [Proyecto-Petit-Ami](https://nombre-de-la-tienda.tiendanube.com) — Plataforma de e-commerce diseñada con Tienda Nube. Participé en la personalización y carga de productos.
 
 
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
