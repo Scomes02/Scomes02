@@ -28,6 +28,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Scomes02&style=flat-square&color=green" alt="contador de visitas" />
+</p>
+
+---
+
 ## 📫 Contacto
 - 📧 comessantiago@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/santiago-comes) 
