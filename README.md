@@ -24,7 +24,7 @@
 ## 🌟 Proyectos Destacados
 - 📦 [RocketApp](https://github.com/Scomes02/RocketApp) — Sistema de gestión PHP con productos y usuarios.
 - ✂️ [ProyectoPeluqueria](https://github.com/Scomes02/ProyectoPeluqueria) — Web de reserva y gestión de turnos.
-- 🔢 [Actividades-Prog-2](https://github.com/Scomes02/Actividades-Prog-2) — Conversor numérico en Java.
+- 🔢 [Actividades-Prog-2](https://github.com/Scomes02/Actividades-Prog-2) — Conversor numérico en Java y agenda personal con Base de datos.
 
 ---
 
