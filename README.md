@@ -9,11 +9,15 @@
 ---
 
 ## 🛠 Tecnologías
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![PSeInt](https://img.shields.io/badge/-PSeInt-blue?style=flat)
+<h3 align="center">Tecnologías que uso</h3>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/fluency/48/unity.png" alt="Unity" />
+</p>
+
 
 ---
 
