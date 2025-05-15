@@ -10,7 +10,7 @@
 
 ## 🌟 Proyectos Destacados
 - 📦 [RocketApp](https://github.com/Scomes02/RocketApp) — Sistema de gestión PHP con productos y usuarios.
-- ✂️ [ProyectoPeluqueria](https://github.com/Scomes02/ProyectoPeluqueria) — Web de reserva y gestión de turnos (En proceso).
+- ✂️ [ProyectoPeluqueria](https://github.com/Scomes02/ProyectoPeluqueria) — Web de gestión de servicios (En proceso).
 - 🔢 [Actividades-Prog-2](https://github.com/Scomes02/Actividades-Prog-2) — Conversor numérico en Java y agenda personal con Base de datos.
 - 🛍️ [Proyecto-Petit-Ami](https://nombre-de-la-tienda.tiendanube.com) — Plataforma de e-commerce diseñada con Tienda Nube. Participé en la personalización y carga de productos (En proceso).
 - 🛸 [Juego-Spce_Invaders_2](https://github.com/Scomes02/Space-Invaders-2) — Juego creado por Unity con controles y comandos simples.
