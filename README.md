@@ -38,7 +38,7 @@
 </p>
 
 <p align="center" style="color:#00FF00; font-family:'Courier New', monospace; font-size:14px;">
-  <i>El sistema ha detectado tu ingreso...<br>Bienvenido al código 🧠</i>
+  <i>El sistema ha detectado tu ingreso...</i>
 </p>
 
 ---
