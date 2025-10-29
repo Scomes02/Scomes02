@@ -27,7 +27,7 @@
 
 <h3 align="center">👀 Visitado por:</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Scomes02/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Scomes02&color=blue&style=for-the-badge" alt="contador de visitas"/>
 </p>
 
 ---
