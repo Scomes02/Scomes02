@@ -14,6 +14,7 @@
 - 🔢 [Actividades-Prog-2](https://github.com/Scomes02/Actividades-Prog-2) — Conversor numérico en Java y agenda personal con Base de datos.
 - 🛍️ [Proyecto-Petit-Ami](https://petitami20.mitiendanube.com) — Plataforma de e-commerce diseñada con Tienda Nube. Participé en la personalización y carga de productos (En proceso).
 - 🛸 [Juego-Spce_Invaders_2](https://github.com/Scomes02/Space-Invaders-2) — Juego creado por Unity con controles y comandos simples.
+- 🖥️ [Gestor Stock - ReStock](https://github.com/Scomes02/Gestor-Stock) - Aplicación de gestión de inventario y ventas.
 
 
 
