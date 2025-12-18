@@ -2,8 +2,8 @@
 ### 💻 Desarrollador de software Jr | Estudiante de Tecnicatura en Desarrollo
 
 - 🎓 Estudiante en Instituto Manuel Belgrano (3º año)
-- 💻 Apasionado por Java, PHP, desarrollo web y videojuegos
-- 🔧 Experiencia real en atención al cliente, ventas y soporte
+- 💻 Interés principal en Java, PHP, desarrollo web y videojuegos
+- 🔧 Experiencia real en atención al cliente, ventas y soporte técnico
 - 🚀 Estoy construyendo proyectos en PHP, HTML, Java y Unity
 
 ---
@@ -13,10 +13,24 @@
 - ✂️ [ProyectoPeluqueria](https://github.com/Scomes02/ProyectoPeluqueria) — Web de gestión de servicios.
 - 🔢 [Actividades-Prog-2](https://github.com/Scomes02/Actividades-Prog-2) — Conversor numérico en Java y agenda personal con Base de datos.
 - 🛍️ [Proyecto-Petit-Ami](https://petitami20.mitiendanube.com) — Plataforma de e-commerce diseñada con Tienda Nube. Participé en la personalización y carga de productos (En proceso).
-- 🛸 [Juego-Spce_Invaders_2](https://github.com/Scomes02/Space-Invaders-2) — Juego creado por Unity con controles y comandos simples.
+- 🛸 [Space-Invaders-2](...) — Juego 2D desarrollado en Unity como práctica de lógica y mecánicas básicas.
 - 🖥️ [Gestor Stock - ReStock](https://github.com/Scomes02/Gestor-Stock) - Aplicación de gestión de inventario y ventas.
 
+## 🛠 Tecnologías
 
+**Lenguajes y Backend**
+- Java
+- PHP
+- MySQL
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Videojuegos**
+- Unity (C#)
+ --
 
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
