@@ -13,7 +13,7 @@
 - ✂️ [ProyectoPeluqueria](https://github.com/Scomes02/ProyectoPeluqueria) — Web de gestión de servicios.
 - 🔢 [Actividades-Prog-2](https://github.com/Scomes02/Actividades-Prog-2) — Conversor numérico en Java y agenda personal con Base de datos.
 - 🛍️ [Proyecto-Petit-Ami](https://petitami20.mitiendanube.com) — Plataforma de e-commerce diseñada con Tienda Nube. Participé en la personalización y carga de productos (En proceso).
-- 🛸 [Space-Invaders-2](...) — Juego 2D desarrollado en Unity como práctica de lógica y mecánicas básicas.
+- 🛸 [Space-Invaders-2]((https://github.com/Scomes02/Space-Invaders-2)) — Juego 2D desarrollado en Unity como práctica de lógica y mecánicas básicas.
 - 🖥️ [Gestor Stock - ReStock](https://github.com/Scomes02/Gestor-Stock) - Aplicación de gestión de inventario y ventas.
 
 ## 🛠 Tecnologías
