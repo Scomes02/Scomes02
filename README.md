@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy Santiago Comes
-### 💻 Desarrollador de software Jr | Estudiante de Tecnicatura en Desarrollo
+# 👋 ¡Hola! Soy Santiago Comes  
+### 💻 Desarrollador de Software Jr
 
-- 🎓 Estudiante en Instituto Manuel Belgrano (3º año)
-- 💻 Interés principal en Java, PHP, desarrollo web y videojuegos
-- 🔧 Experiencia real en atención al cliente, ventas y soporte técnico
-- 🚀 Estoy construyendo proyectos en PHP, HTML, Java y Unity
+- 🎓 Técnico en Desarrollo de Software — Instituto Manuel Belgrano  
+- 💻 Especial interés en desarrollo web, Java, PHP y videojuegos  
+- 🔧 Experiencia en atención al cliente, ventas y soporte técnico  
+- 🚀 Creando proyectos funcionales con PHP, HTML, Java y Unity   
 
 ---
 
