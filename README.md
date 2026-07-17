@@ -30,6 +30,7 @@
   <img src="https://img.icons8.com/fluency/48/unity.png" alt="Unity" />
   
 ---
+
 <h3 align="center" style="color:#00FF00; font-family: 'Courier New', monospace;">
   👀 <span style="text-shadow: 0 0 5px #00FF00;">VISITADO POR</span>
 </h3>
@@ -43,7 +44,9 @@
 <p align="center" style="color:#00FF00; font-family:'Courier New', monospace; font-size:14px;">
   <i>El sistema ha detectado tu ingreso...</i>
 </p>
+
 ---
+
 ## 📫 Contacto
 - 📧 comessantiago@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/santiago-comes)
@@ -55,5 +58,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 ---
-> Gracias por visitar mi perfil 😊
+
+>  Gracias por visitar mi perfil 😊
