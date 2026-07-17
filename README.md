@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Santiago Comes  
 ### 💻 Desarrollador de Software Jr
 
-- 🎓 Técnico Superior en Desarrollo de Software — Instituto Manuel Belgrano  
+- 🎓 Técnico Superior en Desarrollo de Software Jr — Instituto Manuel Belgrano  
 - 💻 Especial interés en desarrollo web, Java, PHP y videojuegos  
 - 🔧 Experiencia en atención al cliente, ventas y soporte técnico  
 - 🚀 Creando proyectos funcionales con PHP, HTML, Java y Unity   
