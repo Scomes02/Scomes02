@@ -1,36 +1,28 @@
 # 👋 ¡Hola! Soy Santiago Comes  
 ### 💻 Desarrollador de Software Jr
-
-- 🎓 Técnico Superior en Desarrollo de Software Jr — Instituto Manuel Belgrano  
+- 🎓 Técnico Superior en Desarrollo de Software — Instituto Manuel Belgrano
 - 💻 Especial interés en desarrollo web, Java, PHP y videojuegos  
 - 🔧 Experiencia en atención al cliente, ventas y soporte técnico  
 - 🚀 Creando proyectos funcionales con PHP, HTML, Java y Unity   
-
 ---
-
 ## 🌟 Proyectos Destacados
-- 🔐 [Alverum-Web](https://github.com/Scomes02/Alverum-Web) — Landing web de seguros con diseño responsive, chatbot interactivo y formulario de contacto en modo demo.
-- 📦 [RocketApp](https://github.com/Scomes02/RocketApp) — Sistema de gestión PHP con productos y usuarios.
-- ✂️ [ProyectoPeluqueria](https://github.com/Scomes02/ProyectoPeluqueria) — Web de gestión de servicios.
-- 🛍️ [Proyecto-Petit-Ami](https://petitami20.mitiendanube.com) — Plataforma de e-commerce diseñada con Tienda Nube. Participé en la personalización y carga de productos (En proceso).
-- 🛸 [Space-Invaders-2](https://github.com/Scomes02/Space-Invaders-2) — Juego 2D desarrollado en Unity como práctica de lógica y mecánicas básicas.
-- 🖥️ [Gestor Stock - ReStock](https://github.com/Scomes02/Gestor-Stock) - Aplicación de gestión de inventario y ventas.
-
+- 🍼 [Puericooltura](https://puericoooltura.netlify.app) — Plataforma de acompañamiento maternal para una clienta real. Arquitectura serverless con CMS headless (Decap CMS + Netlify Identity). *(Repo privado por confidencialidad de datos de la clienta — demo pública disponible)*
+- 🗂️ [MyAgenda](COMPLETAR-LINK-DEL-REPO) — Aplicación de escritorio en Java (POO, Swing) para gestión de contactos y eventos con persistencia de datos.
+- 👗 [Capibara Store](https://github.com/Scomes02/Indumentary-Capibara-Store-finally) — E-commerce de indumentaria desarrollado en equipo, con diseño responsive y carrito de compras.
+- 🖥️ [ReStock](https://github.com/Scomes02/Gestor-Stock) — Sistema de gestión de stock con panel administrativo CRUD.
+- ⚙️ [Vitalis-manager](https://github.com/Scomes02/Vitalis-manager) — Backend en Java desarrollado como simulacro de examen final.
+- 🛸 [Space Invaders](https://github.com/Scomes02/Space-Invaders-2) — Juego 2D en Unity, física y detección de colisiones.
 ## 🛠 Tecnologías
-
 **Lenguajes y Backend**
 - Java
 - PHP
 - MySQL
-
 **Frontend**
 - HTML
 - CSS
 - JavaScript
-
 **Videojuegos**
 - Unity (C#)
-
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
@@ -38,11 +30,9 @@
   <img src="https://img.icons8.com/fluency/48/unity.png" alt="Unity" />
   
 ---
-
 <h3 align="center" style="color:#00FF00; font-family: 'Courier New', monospace;">
   👀 <span style="text-shadow: 0 0 5px #00FF00;">VISITADO POR</span>
 </h3>
-
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Scomes02&label=ACCESOS%20REGISTRADOS&color=00FF00&style=for-the-badge"
@@ -50,13 +40,10 @@
     style="border:2px solid #00FF00; border-radius:10px; box-shadow:0 0 15px #00FF00;"
   />
 </p>
-
 <p align="center" style="color:#00FF00; font-family:'Courier New', monospace; font-size:14px;">
   <i>El sistema ha detectado tu ingreso...</i>
 </p>
-
 ---
-
 ## 📫 Contacto
 - 📧 comessantiago@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/santiago-comes)
@@ -68,7 +55,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
 ---
 > Gracias por visitar mi perfil 😊
