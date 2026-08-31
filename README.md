@@ -13,7 +13,6 @@
 - 🖥️ [ReStock](https://github.com/Scomes02/Gestor-Stock) — Sistema de gestión de stock con panel administrativo CRUD.
 - ⚙️ [Vitalis-manager](https://github.com/Scomes02/Vitalis-manager) — Backend en Java desarrollado como simulacro de examen final.
 - 🛸 [Space Invaders](https://github.com/Scomes02/Space-Invaders-2) — Juego 2D en Unity, física y detección de colisiones.
----
 ## 🛠 Tecnologías
 **Lenguajes y Backend**
 - Java
@@ -31,7 +30,7 @@
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/fluency/48/unity.png" alt="Unity" />
   
-----
+---
 
 <h3 align="center" style="color:#00FF00; font-family: 'Courier New', monospace;">
   👀 <span style="text-shadow: 0 0 5px #00FF00;">VISITADO POR</span>
