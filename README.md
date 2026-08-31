@@ -6,12 +6,14 @@
 - 🚀 Creando proyectos funcionales con PHP, HTML, Java y Unity   
 ---
 ## 🌟 Proyectos Destacados
+- 🛡️ [PaginaSeguros](https://github.com/Scomes02/PaginaSeguros) — Landing page premium para Brokers de Seguros. Arquitectura JAMstack con cotizador dinámico, almacenamiento serverless (Cloudflare R2 + Netlify Functions) y enrutamiento dual de leads (WhatsApp API y EmailJS).
 - 🍼 [Puericooltura](https://puericoooltura.netlify.app) — Plataforma de acompañamiento maternal para una clienta real. Arquitectura serverless con CMS headless (Decap CMS + Netlify Identity). *(Repo privado por confidencialidad de datos de la clienta — demo pública disponible)*
 - 🔐 [Alverum-Web](https://github.com/Scomes02/Alverum-Web) — Landing web de seguros con diseño responsive y chatbot interactivo.
 - 👗 [Capibara Store](https://github.com/Scomes02/Indumentary-Capibara-Store-finally) — E-commerce de indumentaria desarrollado en equipo, con diseño responsive y carrito de compras.
 - 🖥️ [ReStock](https://github.com/Scomes02/Gestor-Stock) — Sistema de gestión de stock con panel administrativo CRUD.
 - ⚙️ [Vitalis-manager](https://github.com/Scomes02/Vitalis-manager) — Backend en Java desarrollado como simulacro de examen final.
 - 🛸 [Space Invaders](https://github.com/Scomes02/Space-Invaders-2) — Juego 2D en Unity, física y detección de colisiones.
+---
 ## 🛠 Tecnologías
 **Lenguajes y Backend**
 - Java
