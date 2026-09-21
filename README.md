@@ -27,7 +27,7 @@
 **Videojuegos**
 - Unity (C#)
 
-----
+------
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
