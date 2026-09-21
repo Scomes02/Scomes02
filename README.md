@@ -8,7 +8,7 @@
 ## 🌟 Proyectos Destacados
 - 🏥 [ReportFlow](https://github.com/Scomes02/ReportFlow) — Plataforma de gestión de estudios clínicos para el Hospital Universitario (UNCuyo), con roles diferenciados (Técnico, Médico, RRHH, Call Center) y control de acceso por permisos. Desarrollado en Laravel + MySQL junto a un equipo de 6 desarrolladores. *(Proyecto académico/institucional)*
 - 🛡️ [PaginaSeguros](https://github.com/Scomes02/PaginaSeguros) — Landing page premium para Brokers de Seguros. Arquitectura JAMstack con cotizador dinámico, almacenamiento serverless (Cloudflare R2 + Netlify Functions) y enrutamiento dual de leads (WhatsApp API y EmailJS).
-- 🍼 [Puericooltura](https://puericoooltura.netlify.app) — Plataforma de acompañamiento maternal para una clienta real. Arquitectura serverless con CMS headless (Decap CMS + Netlify Identity). *(Repo privado por confidencialidad de datos de la clienta — demo pública disponible)*
+- 🍼 [Puericooltura](https://puericoooltura.netlify.app) — Plataforma de acompañamiento maternal con arquitectura serverless y CMS headless (Decap CMS + Netlify Identity). *(Repo privado por confidencialidad de datos de la clienta — demo pública disponible)*
 - 🔐 [Alverum-Web](https://github.com/Scomes02/Alverum-Web) — Landing web de seguros en HTML/CSS/JS con chatbot interactivo, desplegada en Netlify.
 - 👗 [Capibara Store](https://github.com/Scomes02/Indumentary-Capibara-Store-finally) — E-commerce de indumentaria desarrollado en equipo con HTML/CSS/JS, con diseño responsive y carrito de compras.
 - 🖥️ [ReStock](https://github.com/Scomes02/Gestor-Stock) — Sistema de gestión de stock con panel administrativo CRUD, desarrollado en PHP.
