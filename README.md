@@ -26,12 +26,13 @@
 
 **Videojuegos**
 - Unity (C#)
-
+<div aligne="center">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/fluency/48/unity.png" alt="Unity" />
+  <img src="https://img.icons8.com/fluency/48/unity.png" alt="Unity" />  
+</div>
   
 ---
 
