@@ -42,11 +42,19 @@
 
 ---
 
-<h3 align="center">👀 VISITADO POR</h3>
+<h3 align="center" style="color:#00FF00; font-family: 'Courier New', monospace;">
+  👀 <span style="text-shadow: 0 0 5px #00FF00;">VISITADO POR</span>
+</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Scomes02&label=ACCESOS%20REGISTRADOS&color=00FF00&style=for-the-badge" alt="contador de visitas" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Scomes02&label=ACCESOS%20REGISTRADOS&color=00FF00&style=for-the-badge"
+    alt="contador de visitas"
+    style="border:2px solid #00FF00; border-radius:10px; box-shadow:0 0 15px #00FF00;"
+  />
 </p>
-<p align="center"><i><code>&gt; El sistema ha detectado tu ingreso...</code></i></p>
+<p align="center" style="color:#00FF00; font-family:'Courier New', monospace; font-size:14px;">
+  <i>El sistema ha detectado tu ingreso...</i>
+</p>
 
 ---
 
